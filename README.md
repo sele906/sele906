@@ -5,7 +5,6 @@
 **💬 현재 공부중인 백엔드 개발자입니다.**
 
 Email: seunga906@gmail.com  
-Blog: https://coteurin.tistory.com
 
 **BackEnd**
 
