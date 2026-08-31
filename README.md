@@ -1,40 +1,78 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&&color=0:F8B195,50:F67280,100:C06C84&text=sele906_hub&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:26363B,50:37474F,100:52716C&text=sele906&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=ECEFEE)
 
-<div align="center">
+앱도 만들고, 웹도 만들어요.
+혼자 기획하고, 만들고, 굴립니다.
 
-**💬 현재 공부중인 백엔드 개발자입니다.**
-
-Email: seunga906@gmail.com
-
-**BackEnd**
-
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-
-**Database**
-
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-**AI**
-
-<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/groq-F55036?style=for-the-badge&logoColor=white">
-
-**FrontEnd**
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-**Infra / Tool**
-
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/render-white?style=for-the-badge&logo=render&logoColor=white&color=black"> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
-
-<img src="https://img.shields.io/badge/intellijidea-181717?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+백엔드를 중심으로 만들고,
+필요하면 프론트도 직접 붙입니다.
 
 ---
 
-### 🚀 Featured Project
+### 🤖 벨루오
 
-**[Beluo](https://github.com/sele906/beluo-backend)** — 사용자가 직접 AI 캐릭터를 만들고 다양한 AI 모델과 채팅할 수 있는 플랫폼
+사용자가 직접 AI 캐릭터를 만들고 여러 AI 모델과 대화하는 플랫폼
 
-- [Backend](https://github.com/sele906/beluo-backend) · Spring Boot 3 / MongoDB / Redis / RabbitMQ
-- [Frontend](https://github.com/sele906/beluo-frontend) · React / Vite
+[🌐 서비스 바로가기](https://beluo.site) · [백엔드](https://github.com/sele906/beluo-backend) · [프론트엔드](https://github.com/sele906/beluo-frontend)
 
-</div>
+`Spring Boot 3` `MongoDB` `Redis` `RabbitMQ` `React` `Vite`
+
+---
+
+### 쓰는 것들
+
+<details>
+<summary>기술 스택 펼쳐보기</summary>
+
+<br>
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Java 17](https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Infra / Tool**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+</details>
+
+---
+
+### 연결
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sele906)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sele906)
+
+<!--
+브랜드 컬러
+
+먹빛   #37474F
+민트   #7FBBA7
+연회색 #ECEFEE
+-->
