@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:26363B,50:37474F,100:7FBBA7&text=sele906&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=ECEFEE)
 
-앱도 만들고, 웹도 만들어요.
 혼자 기획하고, 만들고, 굴립니다.
 
 백엔드를 중심으로 만들고,
@@ -52,10 +51,3 @@
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
----
-
-### 연결
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sele906)
-[![Follow](https://img.shields.io/badge/Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sele906)
